@@ -4,7 +4,7 @@
   <li>💻 a software engineer </li>
   <li>⌨️ a web developer (fullstack maybe) </li>
   <li>♟️ a chess fun </li>
-  <li>🤓 a 17 y.o. boy with the big brain </li>
+  <li>🤓 a 17 y.o. boy</li>
 </ul>
  🤙 Contact me 🤙<br>
 <ul>
