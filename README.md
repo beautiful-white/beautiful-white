@@ -4,7 +4,7 @@
 > &emsp; *Ⓒ Lucius Annaeus Sĕnĕca minor*
 
 ### 📝 Summary
-I am **Roman**, I am **18** and I am from **Russia**. I am studying in the first year of applied computer science at **FEFU**. My stack: **Python + Big Data**. I am fond of chess (so far only 1000 elo). I like to watch anime sometimes.
+I am **Roman**, I am **19** and I am from **Russia**. I am studying in the first year of applied computer science at **FEFU**. I'm a datascientist. My stack: Python, C++.
 ### 📚 Biography:
 And so. If you want to know a little more about me, then I'll start. \
 At **12 years**, I actively studied the creation of **minecraft servers ⛏️**, it even became my passion. \
