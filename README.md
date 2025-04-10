@@ -1,6 +1,4 @@
-# 🔎 About
-
+## 🥶I'm Roma, 20yo. Nice to meet you!
 > **Per aspera ad astra** \
 > &emsp; *Ⓒ Lucius Annaeus Sĕnĕca minor*
 
-I deleted my prev text. I understood I don't know anything. I need to hard work.
